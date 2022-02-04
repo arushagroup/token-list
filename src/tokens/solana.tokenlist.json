@@ -92603,9 +92603,11 @@
         "facebook": "https://facebook.com/sipa_social",
         "instagram": "https://www.instagram.com/sipa_social/",
         "telegram": "https://t.me/sipa_social",
-        "twitter": "https://twitter.com/sipa_social"
+        "twitter": "https://twitter.com/sipa_social",
+        "website": "https://sipa.app"
       }
-    },
+      }
+    ,
     {
       "chainId": 101,
       "address": "AtS8bVho4K3kcufDCiqtE4GoC3WhSpLAM4KsEou5oh1j",
